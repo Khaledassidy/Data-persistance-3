@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".NativeDatabaseImpliment.MainActivity">
+    tools:context=".NativeDatabaseImpliment_internal_Database.MainActivity">
 
     <EditText
         android:id="@+id/model"
